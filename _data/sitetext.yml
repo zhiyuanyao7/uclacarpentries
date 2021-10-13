@@ -100,7 +100,7 @@ en: &DEFAULT_EN
     people:
       - name: "Tim Dennis"
         role: "Program Director"
-        image: assets/img/team/timdennis.jpg
+        image: assets/img/staff/timdennis.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -110,7 +110,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Zhiyuan Yao"
         role: "Program Assistant"
-        image: assets/img/team/zhiyuan_500x500.jpg
+        image: assets/img/staff/zhiyuan_500x500.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -120,7 +120,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Wiliam Foote"
         role: "Technical Writer"
-        image: assets/img/team/WilliamFoote.png
+        image: assets/img/staff/WilliamFoote.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
