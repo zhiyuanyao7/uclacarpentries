@@ -100,7 +100,7 @@ en: &DEFAULT_EN
     people:
       - name: "Tim Dennis"
         role: "Program Director"
-        image: assets/img/team/tim_dennis-lores.jpg
+        image: assets/img/team/timdennis.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
