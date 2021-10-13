@@ -93,7 +93,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   staff:
-    title: "UCLA DataSquad Staff"
+    title: "Staff"
     text: "Staff"
     #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: staff
