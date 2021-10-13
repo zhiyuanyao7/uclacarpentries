@@ -127,7 +127,7 @@ en: &DEFAULT_EN
     people:
       - name: "Keona Mae Pablo"
         role: "Project Manager"
-        image: assets/img/team/KeonaMae.png
+        image: assets/img/team/timdennis.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
