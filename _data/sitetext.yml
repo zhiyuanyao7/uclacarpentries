@@ -94,7 +94,7 @@ en: &DEFAULT_EN
 
   staff:
     title: "Staff"
-    text: "Staff"
+    text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: staff
     people:
@@ -110,7 +110,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Zhiyuan Yao"
         role: "Program Assistant"
-        image: assets/img/team/zhiyuan.jpg
+          image: assets/img/team/zhiyuan.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -118,9 +118,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Zhiyuan Yao"
-        role: "Program Assistant"
-        image: assets/img/team/tree_headshot.jpg
+      - name: "Wiliam Foote"
+        role: "Technical Writer"
+        image: assets/img/team/WilliamFoote.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -128,6 +128,7 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+     
 
   team:
     title: "Team"
