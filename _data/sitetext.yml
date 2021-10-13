@@ -110,6 +110,16 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Zhiyuan Yao"
         role: "Program Assistant"
+        image: assets/img/team/zhiyuan.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Zhiyuan Yao"
+        role: "Program Assistant"
         image: assets/img/team/tree_headshot.jpg
         social:
           - url: https://twitter.com
@@ -127,7 +137,7 @@ en: &DEFAULT_EN
     people:
       - name: "Keona Mae Pablo"
         role: "Project Manager"
-        image: assets/img/team/timdennis.png
+        image: assets/img/team/KeonaMae.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
