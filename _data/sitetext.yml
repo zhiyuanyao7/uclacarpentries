@@ -92,9 +92,8 @@ en: &DEFAULT_EN
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
-staff:
-  team:
-    title: "UCLA DataSquad"
+  staff:
+    title: "UCLA DataSquad Staff"
     text: "Staff"
     #subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: staff
@@ -121,7 +120,7 @@ staff:
             icon: fab fa-linkedin-in
 
   team:
-    title: "UCLA DataSquad"
+    title: "Team"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
