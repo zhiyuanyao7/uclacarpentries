@@ -110,7 +110,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Zhiyuan Yao"
         role: "Program Assistant"
-        image: assets/img/team/zhiyuan.jpg
+        image: assets/img/team/zhiyuan_500x500.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
