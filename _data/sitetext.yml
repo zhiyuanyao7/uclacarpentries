@@ -100,7 +100,7 @@ en: &DEFAULT_EN
     people:
       - name: "Tim Dennis"
         role: "Program Director"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/tim_dennis-lores.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -110,7 +110,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Zhiyuan Yao"
         role: "Program Assistant"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/zhiyuan.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -127,7 +127,7 @@ en: &DEFAULT_EN
     people:
       - name: "Keona Mae Pablo"
         role: "Project Manager"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/KeonaMae.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -137,7 +137,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Julia Wood"
         role: "Programming Assistant"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/JuliaWood.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
