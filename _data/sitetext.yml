@@ -147,7 +147,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Wiliam Foote"
         role: "Technical Writer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/WilliamFoote.png
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
