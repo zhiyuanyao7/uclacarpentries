@@ -110,7 +110,7 @@ staff:
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
       - name: "Zhiyuan Yao"
-          role: "Program Assistant"
+        role: "Program Assistant"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
