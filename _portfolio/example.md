@@ -2,12 +2,12 @@
 caption: #what displays in the portfolio grid:
   title: Digitalizing Ant Nests to Study Tunneling Trends
   # subtitle: subtitle
-  thumbnail: assets/img/portfolio/antproject.png
+  thumbnail: assets/img/portfolio/antnest.png
   
 #what displays when the item is clicked:
 title: Digitalizing Ant Nests to Study Tunneling Trends
 # subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/antproject.png #main image, can be a link or a file in assets/img/portfolio
+image: assets/img/portfolio/antnest.png #main image, can be a link or a file in assets/img/portfolio
 alt: 3D representation of an ant nest
 
 ---
