@@ -1,13 +1,13 @@
 ---
 title: Analyzing Ancient Chinese Buddhist Text with Python
 # subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/chinesebuddhist.jpeg
+image: assets/img/portfolio/buddhisttext.jpg
 alt: Keep Exploring
 
 caption:
   title: Analyzing Ancient Chinese Buddhist Text with Python
   # subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/chinesebuddhist.jpeg
+  thumbnail: assets/img/portfolio/buddhisttext.jpg
 ---
 
 By JESSICA CHUN on Fri, 2021-01-22 13:20
