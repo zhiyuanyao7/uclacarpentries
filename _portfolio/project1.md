@@ -1,13 +1,13 @@
 ---
 title: Squirrels in Motion
 # subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/squirrel.jpeg
+image: assets/img/portfolio/squirrel.jfif
 alt: Squirrel
 
 caption:
   title: Squirrels in Motion
   # subtitle: Illustration
-  thumbnail: assets/img/portfolio/squirrel.jpeg
+  thumbnail: assets/img/portfolio/squirrel.jfif
 ---
 
 By JESSICA CHUN on Fri, 2021-01-22 13:24
