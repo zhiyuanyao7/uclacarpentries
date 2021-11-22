@@ -125,7 +125,7 @@ en: &DEFAULT_EN
     section: staff
     people:
       - name: "Tim Dennis"
-        role: "Program Director"
+        role: "Program Co-director"
         image: assets/img/staff/timdennis.jpg
         social:
           - url: https://twitter.com/jt14den
@@ -133,7 +133,7 @@ en: &DEFAULT_EN
           - url: https://linkedin.com/in/jtimdennis/
             icon: fab fa-linkedin-in
       - name: "Zhiyuan Yao"
-        role: "Program Assistant"
+        role: "Program Co-director"
         image: assets/img/staff/zhiyuan_500x500.jpg
         social:
           - url: https://twitter.com
