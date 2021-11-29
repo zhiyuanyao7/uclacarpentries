@@ -39,7 +39,7 @@ en: &DEFAULT_EN
       - title: "Data Carpentry"
         # desc: "DataSquad provide data repository service through DataVerse."
         icon: fas fa-tools
-      - title: "Database Development \n\n& Design"
+      - title: "Database Development"
         # desc: "We work with researchers and students on diverse projects"
         icon: fas fa-database
       - title: "Data Visualization"
@@ -57,37 +57,6 @@ en: &DEFAULT_EN
 #     section: blog
 #     closebutton: "Close Project"
 
-  # timeline:
-  #   title: "Timeline"
-  #   text: "Our road"
-  #   section: timeline
-  #   # left is the default
-  #   #start_align: "left"
-  #   events:
-  #     - title: "Our Humble Beginnings"
-  #       year: "2021-10"
-  #       desc: "We started in October, 2021!"
-  #       image: assets/img/timeline/1.jpg
-  #       alt:
-  #     - title: "The programing is growing"
-  #       year: "2021-12"
-  #       desc: "We welcome more students to join the group!"
-  #       image: assets/img/timeline/2.jpg
-  #       alt:
-  #   #  - title: "Jekyll Theme is created"
-  #    #   year: "2019"
-  #     #  desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-  #      # image: assets/img/timeline/3.jpg
-  #       #alt: image alt text
-  #     #- title: "Title"
-  #      # year: "2009-2011"
-  #       #desc: "Your description here, **Markdown** is fully supported."
-  #       #image: assets/img/timeline/4.jpg
-  #       alt:
-  #       # you can enforce the alignment
-  #       align: right
-  #   end: "Be Part <br> of Our <br> Story!"
-
   about:
     title: "About Us"
     text: "our story"
@@ -100,23 +69,6 @@ en: &DEFAULT_EN
     College."
     section: about
 
-#   clients:
-#     section: clients
-#     max-height: 100px
-#     horizontal-scrolling: "" #"yes/no"
-#     list:
-#       - title: "envato"
-#         url: https://github.com/raviriley/agency-jekyll-theme
-#         logo: assets/img/clients/envato.jpg
-#       - title: "designmodo"
-#         url: https://github.com/raviriley/agency-jekyll-theme
-#         logo: assets/img/clients/designmodo.jpg
-#       - title: "themeforest"
-#         url: https://github.com/raviriley/agency-jekyll-theme
-#         logo: assets/img/clients/themeforest.jpg
-#       - title: "Creative Market"
-#         url: https://github.com/raviriley/agency-jekyll-theme
-#         logo: assets/img/clients/creative-market.jpg
 
   staff:
     title: "Staff"
@@ -135,13 +87,13 @@ en: &DEFAULT_EN
       - name: "Zhiyuan Yao"
         role: "Program Co-director"
         image: assets/img/staff/zhiyuan_500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+        # social:
+        #   - url: https://twitter.com
+        #     icon: fab fa-twitter
+        #   - url: https://facebook.com
+        #     icon: fab fa-facebook-f
+        #   - url: https://linkedin.com
+        #     icon: fab fa-linkedin-in
 
   team:
     title: "Team"
@@ -153,32 +105,32 @@ en: &DEFAULT_EN
         role: "Project Manager"
         image: assets/img/team/KeonaMae.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          # - url: https://twitter.com
+          #   icon: fab fa-twitter
+          # - url: https://facebook.com
+          #   icon: fab fa-facebook-f
+          - url: https://www.linkedin.com/in/keonamaepablo/
             icon: fab fa-linkedin-in
       - name: "Julia Wood"
         role: "Programming Assistant"
         image: assets/img/team/JuliaWood.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          # - url: https://twitter.com
+          #   icon: fab fa-twitter
+          # - url: https://facebook.com
+          #   icon: fab fa-facebook-f
+          - url: https://www.linkedin.com/in/juliawood12/
             icon: fab fa-linkedin-in
       - name: "Wiliam Foote"
         role: "Technical Writer"
         image: assets/img/team/WilliamFoote.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+        #   - url: https://twitter.com
+        #     icon: fab fa-twitter
+        #   - url: https://facebook.com
+        #     icon: fab fa-facebook-f
+        #   - url: https://linkedin.com
+        #     icon: fab fa-linkedin-in
 
   contact:
     title: "Contact Us"
