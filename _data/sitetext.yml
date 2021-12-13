@@ -23,10 +23,10 @@ en: &DEFAULT_EN
     section: about
 
   header:
-    title: Facilitating Data Processes at UCLA!
-    text: DataSquad
-    button: Schedule a Meeting with us
-    buttonlink: "#services"
+   # title: Facilitating Data Processes at UCLA!
+   # text: DataSquad
+   # button: Schedule a Meeting with us
+   # buttonlink: "#services"
 
   services:
     title: "Our Services"
